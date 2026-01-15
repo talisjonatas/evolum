@@ -42,7 +42,7 @@ If you want to support the project:
 - GitHub: https://github.com/talisjonatas/evolum
 - Discord: https://discord.gg/hKY2wPc5
 - WhatsApp: https://chat.whatsapp.com/HjQIM3lDbcx380zLvjLEPp
-- Telegram: http://t.me/evolumproject
+- Telegram: https://t.me/+eSbeeKfKzPM0MjAx
 
 ## License
 
