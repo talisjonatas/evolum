@@ -39,8 +39,9 @@ If you want to support the project:
 
 ## Community
 
+- Links: https://linktr.ee/evolum.org
 - GitHub: https://github.com/talisjonatas/evolum
-- Discord: https://discord.gg/hKY2wPc5
+- Discord: https://discord.gg/pCKzxZPdzg
 - WhatsApp: https://chat.whatsapp.com/HjQIM3lDbcx380zLvjLEPp
 - Telegram: https://t.me/+eSbeeKfKzPM0MjAx
 
